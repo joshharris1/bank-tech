@@ -26,9 +26,17 @@ function Deposit(amount) {
   this.balance += amount;
 }
 
+Bank.prototype.Deposit = function() {
+  return.
+}
+
 function Withdraw(amount) {
   this.balance -= amount;
 }
+
+Withdraw.prototype. = function () {
+
+};
 
 function Transaction() {
   this.
